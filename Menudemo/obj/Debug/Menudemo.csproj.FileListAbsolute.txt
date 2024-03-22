@@ -1,0 +1,540 @@
+E:\Menudemo\Menudemo\bin\Debug\Menudemo.exe.config
+E:\Menudemo\Menudemo\bin\Debug\Menudemo.exe
+E:\Menudemo\Menudemo\bin\Debug\Menudemo.pdb
+E:\Menudemo\Menudemo\obj\Debug\Menudemo.csproj.AssemblyReference.cache
+E:\Menudemo\Menudemo\obj\Debug\Menudemo.csproj.SuggestedBindingRedirects.cache
+E:\Menudemo\Menudemo\obj\Debug\Menudemo.Form1.resources
+E:\Menudemo\Menudemo\obj\Debug\Menudemo.Properties.Resources.resources
+E:\Menudemo\Menudemo\obj\Debug\Menudemo.csproj.GenerateResource.cache
+E:\Menudemo\Menudemo\obj\Debug\Menudemo.csproj.CoreCompileInputs.cache
+E:\Menudemo\Menudemo\obj\Debug\Menudemo.exe
+E:\Menudemo\Menudemo\obj\Debug\Menudemo.pdb
+E:\Menudemo\Menudemo\obj\Debug\Menudemo.Thanh_Toan.resources
+E:\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.csproj.AssemblyReference.cache
+E:\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.csproj.SuggestedBindingRedirects.cache
+E:\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.Form1.resources
+E:\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.Hóa_Đơn.resources
+E:\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.Properties.Resources.resources
+E:\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.Thanh_Toan.resources
+E:\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.csproj.GenerateResource.cache
+E:\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.csproj.CoreCompileInputs.cache
+E:\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.exe
+E:\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.pdb
+E:\Menudemo1\Menudemo\Menudemo\bin\Debug\Menudemo.exe.config
+E:\Menudemo1\Menudemo\Menudemo\bin\Debug\Menudemo.exe
+E:\Menudemo1\Menudemo\Menudemo\bin\Debug\Menudemo.pdb
+E:\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Menudemo.exe.config
+E:\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Menudemo.exe
+E:\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Menudemo.pdb
+E:\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.csproj.AssemblyReference.cache
+E:\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.csproj.SuggestedBindingRedirects.cache
+E:\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.Form1.resources
+E:\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.Hóa_Đơn.resources
+E:\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.Properties.Resources.resources
+E:\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.Thanh_Toan.resources
+E:\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.csproj.GenerateResource.cache
+E:\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.csproj.CoreCompileInputs.cache
+E:\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.exe
+E:\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.pdb
+C:\Users\AN515-56\Documents\Zalo Received Files\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.csproj.AssemblyReference.cache
+C:\Users\AN515-56\Documents\Zalo Received Files\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\AN515-56\Documents\Zalo Received Files\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.flogin.resources
+C:\Users\AN515-56\Documents\Zalo Received Files\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.Menu.resources
+C:\Users\AN515-56\Documents\Zalo Received Files\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.fadmin.resources
+C:\Users\AN515-56\Documents\Zalo Received Files\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.faccount.resources
+C:\Users\AN515-56\Documents\Zalo Received Files\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.Hóa_Đơn.resources
+C:\Users\AN515-56\Documents\Zalo Received Files\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.Properties.Resources.resources
+C:\Users\AN515-56\Documents\Zalo Received Files\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.Thanh_Toan.resources
+C:\Users\AN515-56\Documents\Zalo Received Files\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.csproj.GenerateResource.cache
+C:\Users\AN515-56\Documents\Zalo Received Files\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.csproj.CoreCompileInputs.cache
+C:\Users\AN515-56\Documents\Zalo Received Files\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.exe
+C:\Users\AN515-56\Documents\Zalo Received Files\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.pdb
+C:\Users\AN515-56\Documents\Zalo Received Files\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Menudemo.exe.config
+C:\Users\AN515-56\Documents\Zalo Received Files\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Menudemo.exe
+C:\Users\AN515-56\Documents\Zalo Received Files\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Menudemo.pdb
+E:\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Menudemo.exe.config
+E:\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Menudemo.exe
+E:\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Menudemo.pdb
+E:\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.csproj.AssemblyReference.cache
+E:\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.csproj.SuggestedBindingRedirects.cache
+E:\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.flogin.resources
+E:\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.Menu.resources
+E:\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.fadmin.resources
+E:\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.faccount.resources
+E:\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.Hóa_Đơn.resources
+E:\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.Properties.Resources.resources
+E:\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.Thanh_Toan.resources
+E:\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.csproj.GenerateResource.cache
+E:\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.csproj.CoreCompileInputs.cache
+E:\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.exe
+E:\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.pdb
+E:\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Microsoft.Data.Tools.Components.dll
+E:\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+E:\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+E:\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+E:\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+E:\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+E:\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.exe.config
+E:\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.csproj.CopyComplete
+D:\APPlication\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Menudemo.exe.config
+D:\APPlication\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Menudemo.exe
+D:\APPlication\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Menudemo.pdb
+D:\APPlication\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Microsoft.Data.Tools.Components.dll
+D:\APPlication\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+D:\APPlication\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+D:\APPlication\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+D:\APPlication\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+D:\APPlication\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+D:\APPlication\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\APPlication\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.csproj.AssemblyReference.cache
+D:\APPlication\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.csproj.SuggestedBindingRedirects.cache
+D:\APPlication\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.exe.config
+D:\APPlication\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.flogin.resources
+D:\APPlication\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.Menu.resources
+D:\APPlication\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.fadmin.resources
+D:\APPlication\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.faccount.resources
+D:\APPlication\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.Hóa_Đơn.resources
+D:\APPlication\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.Properties.Resources.resources
+D:\APPlication\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.Thanh_Toan.resources
+D:\APPlication\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.csproj.GenerateResource.cache
+D:\APPlication\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.csproj.CoreCompileInputs.cache
+D:\APPlication\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.csproj.CopyComplete
+D:\APPlication\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.exe
+D:\APPlication\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.pdb
+D:\APPlication\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.fsetting.resources
+E:\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Menudemo.exe.config
+E:\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Menudemo.exe
+E:\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Menudemo.pdb
+E:\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Microsoft.Data.Tools.Components.dll
+E:\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+E:\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+E:\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+E:\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+E:\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+E:\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.csproj.AssemblyReference.cache
+E:\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.csproj.SuggestedBindingRedirects.cache
+E:\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.exe.config
+E:\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.fsetting.resources
+E:\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.flogin.resources
+E:\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.Menu.resources
+E:\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.fadmin.resources
+E:\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.faccount.resources
+E:\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.Hóa_Đơn.resources
+E:\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.Properties.Resources.resources
+E:\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.Thanh_Toan.resources
+E:\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.csproj.GenerateResource.cache
+E:\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.csproj.CoreCompileInputs.cache
+E:\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.csproj.CopyComplete
+E:\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.exe
+E:\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.pdb
+C:\Users\AN515-56\Documents\Zalo Received Files\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Menudemo.exe.config
+C:\Users\AN515-56\Documents\Zalo Received Files\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Menudemo.exe
+C:\Users\AN515-56\Documents\Zalo Received Files\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Menudemo.pdb
+C:\Users\AN515-56\Documents\Zalo Received Files\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\AN515-56\Documents\Zalo Received Files\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\AN515-56\Documents\Zalo Received Files\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\AN515-56\Documents\Zalo Received Files\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\AN515-56\Documents\Zalo Received Files\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\AN515-56\Documents\Zalo Received Files\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\AN515-56\Documents\Zalo Received Files\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\AN515-56\Documents\Zalo Received Files\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.csproj.AssemblyReference.cache
+C:\Users\AN515-56\Documents\Zalo Received Files\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\AN515-56\Documents\Zalo Received Files\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.exe.config
+C:\Users\AN515-56\Documents\Zalo Received Files\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.fsetting.resources
+C:\Users\AN515-56\Documents\Zalo Received Files\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.flogin.resources
+C:\Users\AN515-56\Documents\Zalo Received Files\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.Menu.resources
+C:\Users\AN515-56\Documents\Zalo Received Files\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.fadmin.resources
+C:\Users\AN515-56\Documents\Zalo Received Files\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.faccount.resources
+C:\Users\AN515-56\Documents\Zalo Received Files\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.Hóa_Đơn.resources
+C:\Users\AN515-56\Documents\Zalo Received Files\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.Properties.Resources.resources
+C:\Users\AN515-56\Documents\Zalo Received Files\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.csproj.GenerateResource.cache
+C:\Users\AN515-56\Documents\Zalo Received Files\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.csproj.CoreCompileInputs.cache
+C:\Users\AN515-56\Documents\Zalo Received Files\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.csproj.CopyComplete
+C:\Users\AN515-56\Documents\Zalo Received Files\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.exe
+C:\Users\AN515-56\Documents\Zalo Received Files\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.pdb
+C:\Users\nhokg\Downloads\DOANnew\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Menudemo.exe.config
+C:\Users\nhokg\Downloads\DOANnew\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Menudemo.exe
+C:\Users\nhokg\Downloads\DOANnew\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Menudemo.pdb
+C:\Users\nhokg\Downloads\DOANnew\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\nhokg\Downloads\DOANnew\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\nhokg\Downloads\DOANnew\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\nhokg\Downloads\DOANnew\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\nhokg\Downloads\DOANnew\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\nhokg\Downloads\DOANnew\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\nhokg\Downloads\DOANnew\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\nhokg\Downloads\DOANnew\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.csproj.AssemblyReference.cache
+C:\Users\nhokg\Downloads\DOANnew\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\nhokg\Downloads\DOANnew\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.exe.config
+C:\Users\nhokg\Downloads\DOANnew\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.fadmin.resources
+C:\Users\nhokg\Downloads\DOANnew\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.fsetting.resources
+C:\Users\nhokg\Downloads\DOANnew\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.flogin.resources
+C:\Users\nhokg\Downloads\DOANnew\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.Menu.resources
+C:\Users\nhokg\Downloads\DOANnew\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.faccount.resources
+C:\Users\nhokg\Downloads\DOANnew\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.Hóa_Đơn.resources
+C:\Users\nhokg\Downloads\DOANnew\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.Properties.Resources.resources
+C:\Users\nhokg\Downloads\DOANnew\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.csproj.GenerateResource.cache
+C:\Users\nhokg\Downloads\DOANnew\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.csproj.CoreCompileInputs.cache
+C:\Users\nhokg\Downloads\DOANnew\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.csproj.CopyComplete
+C:\Users\nhokg\Downloads\DOANnew\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.exe
+C:\Users\nhokg\Downloads\DOANnew\Menunew\Menunew\DOAN\DOAN\Menu\Menu\Menudemo1\Menudemo\Menudemo\obj\Debug\Menudemo.pdb
+C:\Users\AN515-56\Downloads\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\Menudemo.exe
+C:\Users\AN515-56\Downloads\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\Menudemo.exe.config
+C:\Users\AN515-56\Downloads\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\Menudemo.pdb
+C:\Users\AN515-56\Downloads\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\AN515-56\Downloads\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\AN515-56\Downloads\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\AN515-56\Downloads\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\AN515-56\Downloads\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\AN515-56\Downloads\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\AN515-56\Downloads\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\AN515-56\Downloads\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\Menudemo.csproj.AssemblyReference.cache
+C:\Users\AN515-56\Downloads\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\Menudemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\AN515-56\Downloads\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\Menudemo.exe.config
+C:\Users\AN515-56\Downloads\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\Menudemo.fadmin.resources
+C:\Users\AN515-56\Downloads\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\Menudemo.fsetting.resources
+C:\Users\AN515-56\Downloads\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\Menudemo.Hóa_Đơn.resources
+C:\Users\AN515-56\Downloads\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\Menudemo.HoaDon.resources
+C:\Users\AN515-56\Downloads\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\Menudemo.flogin.resources
+C:\Users\AN515-56\Downloads\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\Menudemo.Menu.resources
+C:\Users\AN515-56\Downloads\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\Menudemo.faccount.resources
+C:\Users\AN515-56\Downloads\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\Menudemo.Properties.Resources.resources
+C:\Users\AN515-56\Downloads\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\Menudemo.csproj.GenerateResource.cache
+C:\Users\AN515-56\Downloads\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\Menudemo.csproj.CoreCompileInputs.cache
+C:\Users\AN515-56\Downloads\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\Menudemo.csproj.CopyComplete
+C:\Users\AN515-56\Downloads\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\Menudemo.exe
+C:\Users\AN515-56\Downloads\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\Menudemo.pdb
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\Menudemo.exe.config
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\Menudemo.exe
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\Menudemo.pdb
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\Menudemo.csproj.AssemblyReference.cache
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\Menudemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\Menudemo.exe.config
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\Menudemo.fsetting.resources
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\Menudemo.flogin.resources
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\Menudemo.Properties.Resources.resources
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\Menudemo.csproj.GenerateResource.cache
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\Menudemo.csproj.CoreCompileInputs.cache
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\Menudemo.csproj.CopyComplete
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\Menudemo.exe
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\Menudemo.pdb
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\dje\Menudemo.resources.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\Menudemo.flogin.dje.resources
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\dje\Menudemo.resources.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\Menudemo.MenuForm.resources
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\Menudemo.DoanhThu.resources
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\Menudemo.TableManager.resources
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\Guna.UI2.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\Menudemo.FSample.resources
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\Menudemo.FAddSample.resources
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\Menudemo.View.Addview.resources
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\Menudemo.View.FCategory.resources
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\Menudemo.View.AddViewTable.resources
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\Menudemo.View.TableView.resources
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\Menudemo.View.AddStaff.resources
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\Menudemo.View.StaffView.resources
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\Menudemo.View.AddFood.resources
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\Menudemo.View.FoodViews.resources
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\Google.Apis.Admin.Directory.directory_v1.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\Google.Apis.Auth.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\Google.Apis.Core.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\Google.Apis.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\System.CodeDom.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\Google.Apis.pdb
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\Google.Apis.xml
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\Google.Apis.Admin.Directory.directory_v1.pdb
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\Google.Apis.Admin.Directory.directory_v1.xml
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\Google.Apis.Auth.xml
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\Google.Apis.Core.pdb
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\Google.Apis.Core.xml
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\System.CodeDom.xml
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\Menudemo.View.HomeView.resources
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\Menudemo.fchangepass.resources
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\obj\Debug\Menudemo.View.fProfile.resources
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\EnvDTE.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\stdole.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AN515-56\Downloads\newnew\cuoiky\DOANnew\Menunew\Menunew\Menudemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\Menudemo.exe.config
+D:\Doan\Doancode\Menudemo\bin\Debug\Menudemo.exe
+D:\Doan\Doancode\Menudemo\bin\Debug\Menudemo.pdb
+D:\Doan\Doancode\Menudemo\bin\Debug\dje\Menudemo.resources.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\Google.Apis.Admin.Directory.directory_v1.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\Google.Apis.Auth.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\Google.Apis.Core.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\Google.Apis.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\Google.Apis.PlatformServices.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\Guna.UI2.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\Microsoft.Data.Tools.Components.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\Newtonsoft.Json.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\System.CodeDom.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\EnvDTE.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\stdole.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\Google.Apis.pdb
+D:\Doan\Doancode\Menudemo\bin\Debug\Google.Apis.xml
+D:\Doan\Doancode\Menudemo\bin\Debug\Google.Apis.Admin.Directory.directory_v1.pdb
+D:\Doan\Doancode\Menudemo\bin\Debug\Google.Apis.Admin.Directory.directory_v1.xml
+D:\Doan\Doancode\Menudemo\bin\Debug\Google.Apis.Auth.pdb
+D:\Doan\Doancode\Menudemo\bin\Debug\Google.Apis.Auth.xml
+D:\Doan\Doancode\Menudemo\bin\Debug\Google.Apis.Core.pdb
+D:\Doan\Doancode\Menudemo\bin\Debug\Google.Apis.Core.xml
+D:\Doan\Doancode\Menudemo\bin\Debug\Newtonsoft.Json.xml
+D:\Doan\Doancode\Menudemo\bin\Debug\System.CodeDom.xml
+D:\Doan\Doancode\Menudemo\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Doan\Doancode\Menudemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Doan\Doancode\Menudemo\obj\Debug\Menudemo.csproj.AssemblyReference.cache
+D:\Doan\Doancode\Menudemo\obj\Debug\Menudemo.csproj.SuggestedBindingRedirects.cache
+D:\Doan\Doancode\Menudemo\obj\Debug\Menudemo.exe.config
+D:\Doan\Doancode\Menudemo\obj\Debug\Menudemo.DoanhThu.resources
+D:\Doan\Doancode\Menudemo\obj\Debug\Menudemo.fsetting.resources
+D:\Doan\Doancode\Menudemo\obj\Debug\Menudemo.FAddSample.resources
+D:\Doan\Doancode\Menudemo\obj\Debug\Menudemo.FSample.resources
+D:\Doan\Doancode\Menudemo\obj\Debug\Menudemo.flogin.resources
+D:\Doan\Doancode\Menudemo\obj\Debug\Menudemo.MenuForm.resources
+D:\Doan\Doancode\Menudemo\obj\Debug\Menudemo.fchangepass.resources
+D:\Doan\Doancode\Menudemo\obj\Debug\Menudemo.Properties.Resources.resources
+D:\Doan\Doancode\Menudemo\obj\Debug\Menudemo.TableManager.resources
+D:\Doan\Doancode\Menudemo\obj\Debug\Menudemo.View.AddFood.resources
+D:\Doan\Doancode\Menudemo\obj\Debug\Menudemo.View.AddStaff.resources
+D:\Doan\Doancode\Menudemo\obj\Debug\Menudemo.View.Addview.resources
+D:\Doan\Doancode\Menudemo\obj\Debug\Menudemo.View.AddViewTable.resources
+D:\Doan\Doancode\Menudemo\obj\Debug\Menudemo.View.FCategory.resources
+D:\Doan\Doancode\Menudemo\obj\Debug\Menudemo.View.FoodViews.resources
+D:\Doan\Doancode\Menudemo\obj\Debug\Menudemo.View.HomeView.resources
+D:\Doan\Doancode\Menudemo\obj\Debug\Menudemo.View.fProfile.resources
+D:\Doan\Doancode\Menudemo\obj\Debug\Menudemo.View.StaffView.resources
+D:\Doan\Doancode\Menudemo\obj\Debug\Menudemo.View.TableView.resources
+D:\Doan\Doancode\Menudemo\obj\Debug\Menudemo.flogin.dje.resources
+D:\Doan\Doancode\Menudemo\obj\Debug\Menudemo.csproj.GenerateResource.cache
+D:\Doan\Doancode\Menudemo\obj\Debug\Menudemo.csproj.CoreCompileInputs.cache
+D:\Doan\Doancode\Menudemo\obj\Debug\dje\Menudemo.resources.dll
+D:\Doan\Doancode\Menudemo\obj\Debug\Menudemo.csproj.CopyComplete
+D:\Doan\Doancode\Menudemo\obj\Debug\Menudemo.exe
+D:\Doan\Doancode\Menudemo\obj\Debug\Menudemo.pdb
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\Menudemo.exe.config
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\Menudemo.exe
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\Menudemo.pdb
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\dje\Menudemo.resources.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\Google.Apis.Admin.Directory.directory_v1.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\Google.Apis.Auth.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\Google.Apis.Core.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\Google.Apis.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\Google.Apis.PlatformServices.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\Guna.UI2.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\Microsoft.Data.Tools.Components.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\Newtonsoft.Json.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\System.CodeDom.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\EnvDTE.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\stdole.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\Google.Apis.pdb
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\Google.Apis.xml
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\Google.Apis.Admin.Directory.directory_v1.pdb
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\Google.Apis.Admin.Directory.directory_v1.xml
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\Google.Apis.Auth.pdb
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\Google.Apis.Auth.xml
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\Google.Apis.Core.pdb
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\Google.Apis.Core.xml
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\Newtonsoft.Json.xml
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\System.CodeDom.xml
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Doan\Doancode - Copy\Menudemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Doan\Doancode - Copy\Menudemo\obj\Debug\Menudemo.csproj.AssemblyReference.cache
+D:\Doan\Doancode - Copy\Menudemo\obj\Debug\Menudemo.csproj.SuggestedBindingRedirects.cache
+D:\Doan\Doancode - Copy\Menudemo\obj\Debug\Menudemo.exe.config
+D:\Doan\Doancode - Copy\Menudemo\obj\Debug\Menudemo.DoanhThu.resources
+D:\Doan\Doancode - Copy\Menudemo\obj\Debug\Menudemo.fsetting.resources
+D:\Doan\Doancode - Copy\Menudemo\obj\Debug\Menudemo.FAddSample.resources
+D:\Doan\Doancode - Copy\Menudemo\obj\Debug\Menudemo.FSample.resources
+D:\Doan\Doancode - Copy\Menudemo\obj\Debug\Menudemo.flogin.resources
+D:\Doan\Doancode - Copy\Menudemo\obj\Debug\Menudemo.MenuForm.resources
+D:\Doan\Doancode - Copy\Menudemo\obj\Debug\Menudemo.fchangepass.resources
+D:\Doan\Doancode - Copy\Menudemo\obj\Debug\Menudemo.Properties.Resources.resources
+D:\Doan\Doancode - Copy\Menudemo\obj\Debug\Menudemo.TableManager.resources
+D:\Doan\Doancode - Copy\Menudemo\obj\Debug\Menudemo.View.AddFood.resources
+D:\Doan\Doancode - Copy\Menudemo\obj\Debug\Menudemo.View.AddStaff.resources
+D:\Doan\Doancode - Copy\Menudemo\obj\Debug\Menudemo.View.Addview.resources
+D:\Doan\Doancode - Copy\Menudemo\obj\Debug\Menudemo.View.AddViewTable.resources
+D:\Doan\Doancode - Copy\Menudemo\obj\Debug\Menudemo.View.FCategory.resources
+D:\Doan\Doancode - Copy\Menudemo\obj\Debug\Menudemo.View.FoodViews.resources
+D:\Doan\Doancode - Copy\Menudemo\obj\Debug\Menudemo.View.HomeView.resources
+D:\Doan\Doancode - Copy\Menudemo\obj\Debug\Menudemo.View.fProfile.resources
+D:\Doan\Doancode - Copy\Menudemo\obj\Debug\Menudemo.View.StaffView.resources
+D:\Doan\Doancode - Copy\Menudemo\obj\Debug\Menudemo.View.TableView.resources
+D:\Doan\Doancode - Copy\Menudemo\obj\Debug\Menudemo.flogin.dje.resources
+D:\Doan\Doancode - Copy\Menudemo\obj\Debug\Menudemo.csproj.GenerateResource.cache
+D:\Doan\Doancode - Copy\Menudemo\obj\Debug\Menudemo.csproj.CoreCompileInputs.cache
+D:\Doan\Doancode - Copy\Menudemo\obj\Debug\dje\Menudemo.resources.dll
+D:\Doan\Doancode - Copy\Menudemo\obj\Debug\Menudemo.csproj.CopyComplete
+D:\Doan\Doancode - Copy\Menudemo\obj\Debug\Menudemo.exe
+D:\Doan\Doancode - Copy\Menudemo\obj\Debug\Menudemo.pdb
